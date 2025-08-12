@@ -25,6 +25,7 @@ For business or other support email: `censbrowser@gmail.com`
 | DuckDuckGo    | duckduckgo.com|
 | Bing          | bing.com      |
 | Vyntr         | vyntr.com (FaceDev) |
+| CensSearch    | Planned       |
 
 ## Owner
 
