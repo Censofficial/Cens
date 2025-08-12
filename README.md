@@ -30,6 +30,7 @@ For business or other support email: `censbrowser@gmail.com`
 | You.com       | you.com                   |
 | Qwant         | qwant.com                 |
 | MetaSearx     | metasearx.com             |
+| Giggle        | https://shorturl.at/rM17d | 
 
 ## Owner
 
