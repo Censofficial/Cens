@@ -1,36 +1,31 @@
 # Cens Browser
 
-Cens Browser is a privacy-focused, performance-optimized web browser originally developed for Windows.
-
----
+A browser I built on Windows focused on privacy and speed.
 
 ## About
 
-Cens is not a company—it's an independent project by rwusmm (Chris). The browser prioritizes user privacy and speed while providing essential browsing features.
-
-For questions or support, reach out on Discord: `rwusmm`  
-For business inquiries or other support, email: `censbrowser@gmail.com`
-
----
+Cens is not a company or a product from some big team. It’s just a browser I’m working on.  
+If you want to ask something, find me on Discord: `rwusmm`  
+For business or other support email: `censbrowser@gmail.com`
 
 ## Features (WIP)
 
-- **18+ Protect**: Enforced access control on adult content sites.  
-- **Clippy**: A lightweight, browser-integrated assistant inspired by Microsoft’s Clippy. Offers additional functionality without being intrusive.  
-- **TimeBuddy**: Tracks time spent on websites and lets you set usage limits.  
-- More features coming soon.
+| Feature      | Description                                  |
+|--------------|----------------------------------------------|
+| 18+ Protect  | Locks access to adult sites                   |
+| Clippy       | Microsoft Clippy-style assistant, less annoying, unlocks extra features |
+| TimeBuddy    | Tracks time spent on sites and lets you set limits |
+| More coming  | More features planned                         |
 
----
+## Search Engines
 
-## Supported Search Engines
+| Search Engine | URL           |
+|---------------|---------------|
+| Google        | google.com    |
+| DuckDuckGo    | duckduckgo.com|
+| Bing          | bing.com      |
+| Vyntr         | vyntr.com (FaceDev) |
 
-- Google (google.com)  
-- DuckDuckGo (duckduckgo.com)  
-- Bing (bing.com)  
-- Vyntr (vyntr.com) - FaceDev-powered search
+## Owner
 
----
-
-## Ownership
-
-Developed and maintained by rwusmm (Chris).
+This browser is made by rwusmm / Chris
