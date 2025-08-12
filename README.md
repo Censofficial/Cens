@@ -19,13 +19,17 @@ For business or other support email: `censbrowser@gmail.com`
 
 ## Search Engines
 
-| Search Engine | URL           |
-|---------------|---------------|
-| Google        | google.com    |
-| DuckDuckGo    | duckduckgo.com|
-| Bing          | bing.com      |
-| Vyntr         | vyntr.com (FaceDev) |
-| CensSearch    | Planned       |
+| Search Engine | URL                       |
+|---------------|---------------------------|
+| Google        | google.com                |
+| DuckDuckGo    | duckduckgo.com            |
+| Bing          | bing.com                  |
+| Vyntr         | vyntr.com (FaceDev)       |
+| CensSearch    | Planned                   |
+| Ecosia        | ecosia.org                |
+| You.com       | you.com                   |
+| Qwant         | qwant.com                 |
+| MetaSearx     | metasearx.com             |
 
 ## Owner
 
