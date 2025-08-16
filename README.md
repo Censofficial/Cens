@@ -1,4 +1,6 @@
 # Cens Browser
+Copyright @ 2025 Cens
+---
 
 A browser I built on Windows focused on privacy and speed.
 
