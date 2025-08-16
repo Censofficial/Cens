@@ -14,10 +14,10 @@ For business or other support email: `censbrowser@gmail.com`
 
 | Feature      | Description                                  |
 |--------------|----------------------------------------------|
-| 18+ Protect  | Locks access to adult sites                   |
+|              |                                              |
 | Clippy       | Microsoft Clippy-style assistant, less annoying, unlocks extra features |
 | TimeBuddy    | Tracks time spent on sites and lets you set limits |
-| More coming  | More features planned                         |
+| Webview2     | Switch between CefSharp and Webivew2 by just a click |
 
 ## Search Engines
 
