@@ -13,3 +13,6 @@ with special abilities. Currently working on Codec support so that sites like re
 
 6/16/2025:
 Polished features and currently working on somehow retiring old winforms for new WPF
+
+6/16/2025: 4:36 PM
+Decided to actualy just rewrite the whole browser from scratch in a WPF new project.
