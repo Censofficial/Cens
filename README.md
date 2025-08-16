@@ -34,8 +34,12 @@ For business or other support email: `censbrowser@gmail.com`
 | MetaSearx     | metasearx.com             |
 | Giggle        | shorturl.at/rM17d         | 
 
+## Privacy
+Just because Cens uses Chromium (via WebView2 or CefSharp) doesn’t mean it automatically collects data. The engine provides the rendering and web compatibility, but tracking behavior comes from the browser layer and extra services on top of it. Cens makes sure no extra data tracking features are on via system level controlling.
+
 ## Engine Switch
 You might wonder what is it? well the name says it all, you can switch between Cefsharp (default browser engine) and Webview2 (Edge's engine) via just a click, the promise is that Webview2 supports all media and all that stuff a browser has but the downside is that its less tested, probably has less features than CefSharp.
+
 ## Clippy
 You might wonder why i added clippy? well with the upcoming trends in goverments that tries to ban the internet secretly and adding ID verification anywhere (youtube for example) thats bad, aswell as roblox protecting pdf files the goal with clippy being in this browser is indicating obvious no data or privacy issue with him, he just tries to help you access more features without any bloatware or data collection.
 
