@@ -10,3 +10,6 @@ Scrapped the 18+ feature idea, working on better performance and themes.
 6/15/2025:
 Pretty much stopped working on the 18+ feature tho optimised the browser more, added like 1 or 2 features including AI
 with special abilities. Currently working on Codec support so that sites like reddit works.
+
+6/16/2025:
+Polished features and currently working on somehow retiring old winforms for new WPF
