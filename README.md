@@ -18,6 +18,7 @@ For business or other support email: `censbrowser@gmail.com`
 | Clippy       | Microsoft Clippy-style assistant, less annoying, unlocks extra features |
 | TimeBuddy    | Tracks time spent on sites and lets you set limits |
 | Engine Switch     | Switch between CefSharp and Webview2 by just a click |
+| Closed Source | i dont like sharing stuff |
 
 ## Search Engines
 
