@@ -19,7 +19,7 @@ For business or other support email: `censbrowser@gmail.com`
 | Feature      | Description                                  |
 |--------------|----------------------------------------------|
 | Loading Screen             |  Shows text too                                            |
-| Clippy       | Microsoft Clippy-style assistant, less annoying, unlocks extra features |
+| Clippy       | Microsoft Clippy assistant, unlocks extra features |
 | TimeBuddy    | Tracks time spent on sites and lets you set limits |
 | Engine Switch     | Switch between CefSharp and Webview2 by just a click |
 | Closed Source | i dont like sharing stuff |
@@ -35,10 +35,7 @@ For business or other support email: `censbrowser@gmail.com`
 | Vyntr         | vyntr.com (FaceDev)       |
 | CensSearch    | Planned                   |
 | Ecosia        | ecosia.org                |
-| You.com       | you.com                   |
-| Qwant         | qwant.com                 |
-| MetaSearx     | metasearx.com             |
-| Giggle        | shorturl.at/rM17d         | 
+
 
 ## Privacy
 Just because Cens uses Chromium (via WebView2 or CefSharp) doesn’t mean it automatically collects data. The engine provides the rendering and web compatibility, but tracking behavior comes from the browser layer and extra services on top of it. Cens makes sure no extra data tracking features are on via system level controlling.
