@@ -23,6 +23,7 @@ For business or other support email: `censbrowser@gmail.com`
 | TimeBuddy    | Tracks time spent on sites and lets you set limits |
 | Engine Switch     | Switch between CefSharp and Webview2 by just a click |
 | Closed Source | i dont like sharing stuff |
+| XBoost       | This Feature gives better performance by using lastest methods, etc |
 
 ## Search Engines
 
