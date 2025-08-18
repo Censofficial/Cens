@@ -44,6 +44,9 @@ You might wonder what is it? well the name says it all, you can switch between C
 ## Clippy
 You might wonder why i added clippy? well with the upcoming trends in goverments that tries to ban the internet secretly and adding ID verification anywhere (youtube for example) thats bad, aswell as roblox protecting pedofiles, the goal with clippy being in this browser is indicating obvious no data or privacy issue with him, he just tries to help you access more features without any bloatware or data collection.
 
+## Tags
+lightweight browser, privacy-focused browser, performance-focused browser, good browser, new browser, github browser, free browser
+
 ## Owner
 
 This browser is made by rwusmm / Chris
