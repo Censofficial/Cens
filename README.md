@@ -10,6 +10,10 @@ Cens is not a company or a product from some big team. Itâ€™s just a browser Iâ€
 If you want to ask something, find me on Discord: `rwusmm`  
 For business or other support email: `censbrowser@gmail.com`
 
+## Screenshots
+<img width="1280" height="675" alt="CensBrowserWaterTest" src="https://github.com/user-attachments/assets/ee1bd10a-a3bb-45f3-be21-68b500b1a638" />
+
+
 ## Features (WIP)
 
 | Feature      | Description                                  |
