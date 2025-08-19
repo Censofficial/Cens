@@ -2,23 +2,23 @@
 First development day of the browser, things coming quickly its way, stable browser, functional.
 
 6/13/2025:
-Added more features + improvements, currently working on 18+ Protector Feature.
+Added more features + improvements, currently working on Protection Feature.
 
 6/13/2025: later
-Scrapped the 18+ feature idea, working on better performance and themes.
+Scrapped the Protection feature idea, working on better performance and themes.
 
 6/15/2025:
-Pretty much stopped working on the 18+ feature tho optimised the browser more, added like 1 or 2 features including AI
+Optimised the browser more, added like 1 or 2 features including AI
 with special abilities. Currently working on Codec support so that sites like reddit works.
 
 6/16/2025:
 Polished features and currently working on somehow retiring old winforms for new WPF
 
 6/16/2025: 4:36 PM
-Decided to actualy just rewrite the whole browser from scratch in a WPF new project.
+Decided to actualy just rewrite the whole browser from scratch in a new fork project.
 
 6/16/2025: 11:52 PM
-Worked on the browser but paused the project for 2 days
+Worked on the browser but paused the project for 1 day
 
 6/18/2025: 1:13 PM
 After changes and changes i finally made a stable(ish) Publish System for the browser, making it way easier to pack
