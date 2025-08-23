@@ -12,6 +12,8 @@ For business or other support email: `censbrowser@gmail.com`
 
 ## Screenshots
 <img width="1280" height="675" alt="CensBrowserWaterTest" src="https://github.com/user-attachments/assets/ee1bd10a-a3bb-45f3-be21-68b500b1a638" />
+Blocker test results:
+<img width="774" height="316" alt="image" src="https://github.com/user-attachments/assets/884939bf-6505-4305-ae1f-3f37e4919a98" />
 
 
 ## Features (WIP)
